@@ -7,7 +7,7 @@ This repository details the scripts used in the Kaggle challenge
 `Highest achieved public and private score in the leader-board:0.78`
 
 The data-set had some null values this was the only difference between
-`Categorical encoding I` and `Categorical encdding II` problems.
+`Categorical encoding I` and `Categorical encdding II` data-sets.
 
 The model was a simple feed-forward net. After some data cleaning and
 some feature engineering the model produced decent results.
