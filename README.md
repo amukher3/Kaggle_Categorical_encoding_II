@@ -2,9 +2,9 @@
 This repository details the scripts used in the Kaggle challenge
 
 `Attained public score:0.72`
-`Attained private score:0.71`
+`Attained private score:0.73`
 
-`Highest achieved public score in the leader-board:0.78`
+`Highest achieved public and private score in the leader-board:0.78`
 
 The data-set had some null values this was the only difference between
 `Categorical encoding I` and `Categorical encdding II` problems.
