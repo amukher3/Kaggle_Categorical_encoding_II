@@ -12,3 +12,6 @@ The data-set had some null values this was the only difference between
 The model was a simple feed-forward net. After some data cleaning and
 some feature engineering the model produced decent results.
 
+Some Exploratory data-analysis reveal some of the corners and reasons used
+for feature engineering. 
+
